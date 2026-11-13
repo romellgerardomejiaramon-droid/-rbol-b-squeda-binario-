@@ -1,1 +1,1 @@
-# -rbol-b-squeda-binario-
+# -árbol-busqueda-binario-
